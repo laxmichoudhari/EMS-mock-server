@@ -1,74 +1,753 @@
 {
-  "users":[
-{
-"id": 1,
-"name": "Gertrudis Tatterton",
-"age": 18,
-"email": "gtatterton0@ehow.com",
-"password": "12345"
-},
-{
-"id": 2,
-"name": "Gail Newbatt",
-"age": 53,
-"email": "gnewbatt1@un.org",
-"password": "12345"
-},
-{
-"id": 3,
-"name": "Walliw Wilstead",
-"age": 49,
-"email": "wwilstead2@tripadvisor.com",
-"password": "12345"
-},
-{
-"id": 4,
-"name": "Abran Proback",
-"age": 29,
-"email": "aproback3@theglobeandmail.com",
-"password": "12345"
-},
-{
-"id": 5,
-"name": "Roda Chappelow",
-"age": 31,
-"email": "rchappelow4@oaic.gov.au",
-"password": "12345"
-},
-{
-"id": 6,
-"name": "Karney Wylie",
-"age": 22,
-"email": "kwylie5@miitbeian.gov.cn",
-"password": "12345"
-},
-{
-"id": 7,
-"name": "Cammi Pimbley",
-"age": 63,
-"email": "cpimbley6@nyu.edu",
-"password": "12345"
-},
-{
-"id": 8,
-"name": "Gavra Manning",
-"age": 43,
-"email": "gmanning7@lycos.com",
-"password": "12345"
-},
-{
-"id": 9,
-"name": "Zachary Seward",
-"age": 45,
-"email": "zseward8@oracle.com",
-"password": "12345"
-},
-{
-"id": 10,
-"name": "Chucho Norssister",
-"age": 20,
-"email": "cnorssister9@mayoclinic.com",
-"password": "12345"
-}
-]
+  "Mens": [
+    {
+      "id": 1,
+      "name": "EMS Men's Techwick Epic Active UPF Short-Sleeve Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
+      ],
+      "price": 35,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_316_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_407_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_406_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 2,
+      "name": "EMS Men's Trailhead Long-Sleeve Shirt",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_alt3.jpg"
+      ],
+      "price": 70,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 3,
+      "name": "EMS Men's Lightweight Spring Flannel",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_alt3.jpg"
+      ],
+      "price": 69,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_212_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 4,
+      "name": "EMS Men's Ryker Parka",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_alt10.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_alt3.jpg"
+      ],
+      "price": 60,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 5,
+      "name": "EMS Men's Vortex Midlayer Insulated Jacket",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_alt5.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_alt1.jpg"
+      ],
+      "price": 19,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_314_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 6,
+      "name": "LEVI'S Men's 514 Straight Fit Advanced Stretch Jeans",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_alt2.jpg"
+      ],
+      "price": 84,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_404_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_402_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 7,
+      "name": "LEVI'S Men's Jeffrey Sneaker Shoes",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_alt3.jpg"
+      ],
+      "price": 55,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 8,
+      "name": "LEVI'S Men's 550 Relaxed Fit Jeans",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_alt2.jpg"
+      ],
+      "price": 80,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_408_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 9,
+      "name": "LEVI'S Mens 405 Denim Shorts",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_alt2.jpg"
+      ],
+      "price": 66,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 10,
+      "name": "LEVI'S Mens 405 Denim Shorts",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt3.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt6.jpg"
+      ],
+      "price": 38,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt5.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 11,
+      "name": "BUFF Polar Multifunctional Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt5.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt7.jpg"
+      ],
+      "price": 36,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 12,
+      "name": "BUFF Valpar ThermoNet Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt5.jpg"
+      ],
+      "price": 25,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 13,
+      "name": "BUFF Original EcoStretch Multifunctional Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt5.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt4.jpg"
+      ],
+      "price": 30,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 14,
+      "name": "BUFF CoolNet UV w/ Insect Shield Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt3.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt1.jpg"
+      ],
+      "price": 35,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 15,
+      "name": "BUFF CoolNet UV Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_alt3.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_alt5.jpg"
+      ],
+      "price": 40,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 16,
+      "name": "BUFF Original EcoStretch Neckwear",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_alt6.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_alt7.jpg"
+      ],
+      "price": 22,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083486_602_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 17,
+      "name": "ADIDAS Men's Superlite 2 Cap",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt8.jpg"
+      ],
+      "price": 50,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_101_alt8.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt8.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 18,
+      "name": "ADIDAS Men's Techfit Long Sleeve Fitted Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt3.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt5.jpg"
+      ],
+      "price": 21,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt3.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt8.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 19,
+      "name": "ADIDAS Men's Metro V OTC Soccer Socks",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt6.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt3.jpg"
+      ],
+      "price": 65,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_404_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_101_alt1.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 20,
+      "name": "ADIDAS Men's Producer 2 Stretch-Fit Hat",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_alt5.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_alt8.jpg"
+      ],
+      "price": 36,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_001_main.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 21,
+      "name": "ADIDAS Adilette Comfort Slides",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_alt6.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_alt7.jpg"
+      ],
+      "price": 66,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_004_alt7.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_alt7.jpg"
+      ],
+      "category": "Mens"
+    },
+    {
+      "id": 22,
+      "name": "ADIDAS Men's Adilette Sandals",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt4.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt6.jpg"
+      ],
+      "price": 35,
+      "color_image": [
+       "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt6.jpg",
+       "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_030_alt6.jpg"
+      ],
+      "category": "Mens"
+    }
+  ],
+  "Womens": [
+    {
+      "id": 51,
+      "name": "EMS Women's Feather Pack Hooded Jacket",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_alt3.jpg"
+      ],
+      "price": 37,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_412_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_502_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_407_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_509_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 52,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_alt2.jpg"
+      ],
+      "price": 24,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 53,
+      "name": "EMS Women's Camp Cargo Zip-Off Pants",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_alt9.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_alt11.jpg"
+      ],
+      "price": 44,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_105_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_001_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 54,
+      "name": "EMS Women's Lakeside Waffle Long-Sleeve Henley",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_alt1.jpg"
+      ],
+      "price": 18,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 55,
+      "name": "PRANA Women's Emerick Lined Flannel",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_alt3.jpg"
+      ],
+      "price": 77,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 56,
+      "name": "MARMOT Women's Ridgefield Heavyweight Sherpa-Lined Flannel Jacket",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_alt3.jpg"
+      ],
+      "price": 94,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_402_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 57,
+      "name": "LEVI'S Women's 311 Shaping Skinny Jeans",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_alt2.jpg"
+      ],
+      "price": 48,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_406_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_001_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 58,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_alt2.jpg"
+      ],
+      "price": 32,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_602_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_309_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 59,
+      "name": "OUTDOOR RESEARCH Women's SuperStrand LT Vest",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_alt2.jpg"
+      ],
+      "price": 49,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_701_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_308_main.png"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 60,
+      "name": "LIFE IS GOOD Women's Freestyle Crusher-Lite Long Sleeve Graphic Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_alt2.jpg"
+      ],
+      "price": 34,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 61,
+      "name": "THE NORTH FACE Women's Antora Parka",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_306_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_306_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_306_alt2.jpg"
+      ],
+      "price": 74,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_606_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_701_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 62,
+      "name": "OUTDOOR RESEARCH Women's Ferrosi Convertible Pants - Short",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_001_alt1.jpg"
+      ],
+      "price": 19,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_204_main.png"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 63,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_alt3.jpg"
+      ],
+      "price": 75,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_201_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 64,
+      "name": "EMS Women's Medium Weight Synthetic Base Layer Crewneck Shirt",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_alt3.jpg"
+      ],
+      "price": 29,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_003_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_003_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_302_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 65,
+      "name": "LOUIS GARNEAU Women's Gloria Short-Sleeve Cycling Jersey",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_alt1.jpg"
+      ],
+      "price": 69,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 66,
+      "name": "LEVI'S Women's Long-Sleeve Graphic Crewneck Fleece",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_004_alt1.jpg"
+      ],
+      "price": 34,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_001_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 67,
+      "name": "ADIDAS Women's Essentials Loose 3-Stripes Cropped Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_alt3.jpg"
+      ],
+      "price": 18,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 68,
+      "name": "EMS Women's Bonus Miles Short-Sleeve Shirt",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_alt1.jpg"
+      ],
+      "price": 41,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_207_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 69,
+      "name": "MARMOT Women's Kodakchrome 7'' Shorts",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_alt2.jpg"
+      ],
+      "price": 65,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_204_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 70,
+      "name": "ADIDAS Women's Future Icons 3-Stripes Pants",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_alt4.jpg"
+      ],
+      "price": 41,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_006_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 71,
+      "name": "GIRO Women's Riela R II Shoe",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt2.jpg"
+      ],
+      "price": 49,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 72,
+      "name": "EMS Women's Track Lite Quarter Socks",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_501_main.jpg"
+      ],
+      "price": 10,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_404_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_503_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_004_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 73,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_alt3.jpg"
+      ],
+      "price": 59,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 74,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt3.jpg"
+      ],
+      "price": 54,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_002_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 75,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_306_main.jpg"
+      ],
+      "price": 35,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_305_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_606_main.jpg"
+      ],
+      "category": "Womens"
+    }
+  ],
+  "Footwear": [
+    {
+      "id": 1,
+      "name": "EMS Men's Techwick Epic Active UPF Short-Sleeve Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
+      ],
+      "price": 70,
+      "category": "Mens"
+    }
+  ]
 }
