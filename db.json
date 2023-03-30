@@ -2,7 +2,7 @@
   "Mens": [
     {
       "id": 1,
-      "name": "EMS Men's Techwick Epic Active UPF Short-Sleeve Tee",
+      "name": "EMS Men's  Short-Sleeve Tee",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
@@ -20,7 +20,7 @@
     },
     {
       "id": 2,
-      "name": "EMS Men's Trailhead Long-Sleeve Shirt",
+      "name": "EMS Men's Long-Sleeve Shirt",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_alt1.jpg",
@@ -71,7 +71,7 @@
     },
     {
       "id": 5,
-      "name": "EMS Men's Vortex Midlayer Insulated Jacket",
+      "name": "EMS Men's  Insulated Jacket",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_alt2.jpg",
@@ -89,7 +89,7 @@
     },
     {
       "id": 6,
-      "name": "LEVI'S Men's 514 Straight Fit Advanced Stretch Jeans",
+      "name": "LEVI'S Men's Stretch Jeans",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_alt1.jpg",
@@ -106,7 +106,7 @@
     },
     {
       "id": 7,
-      "name": "LEVI'S Men's Jeffrey Sneaker Shoes",
+      "name": "LEVI'S Men's Sneaker Shoes",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_alt1.jpg",
@@ -121,7 +121,7 @@
     },
     {
       "id": 8,
-      "name": "LEVI'S Men's 550 Relaxed Fit Jeans",
+      "name": "LEVI'S Men's  Fit Jeans",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_alt1.jpg",
@@ -201,7 +201,7 @@
     },
     {
       "id": 13,
-      "name": "BUFF Original EcoStretch Multifunctional Neckwear",
+      "name": "BUFF Original Neckwear",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt1.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt2.jpg",
@@ -219,7 +219,7 @@
     },
     {
       "id": 14,
-      "name": "BUFF CoolNet UV w/ Insect Shield Neckwear",
+      "name": "BUFF CoolNet Neckwear",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt2.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt3.jpg",
@@ -290,7 +290,7 @@
     },
     {
       "id": 18,
-      "name": "ADIDAS Men's Techfit Long Sleeve Fitted Tee",
+      "name": "ADIDAS Men's Fitted Tee",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt1.jpg",
@@ -307,7 +307,7 @@
     },
     {
       "id": 19,
-      "name": "ADIDAS Men's Metro V OTC Soccer Socks",
+      "name": "ADIDAS Men's Soccer Socks",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt2.jpg",
@@ -326,7 +326,7 @@
     },
     {
       "id": 20,
-      "name": "ADIDAS Men's Producer 2 Stretch-Fit Hat",
+      "name": "ADIDAS Men's Stretch-Fit Hat",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_alt1.jpg",
@@ -379,7 +379,7 @@
   "Womens": [
     {
       "id": 51,
-      "name": "EMS Women's Feather Pack Hooded Jacket",
+      "name": "EMS Women's Hooded Jacket",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_alt1.jpg",
@@ -398,7 +398,7 @@
     },
     {
       "id": 52,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "EMS Women's Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_alt1.jpg",
@@ -414,7 +414,7 @@
     },
     {
       "id": 53,
-      "name": "EMS Women's Camp Cargo Zip-Off Pants",
+      "name": "EMS Women's Pants",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_alt1.jpg",
@@ -432,7 +432,7 @@
     },
     {
       "id": 54,
-      "name": "EMS Women's Lakeside Waffle Long-Sleeve Henley",
+      "name": "EMS Women's Lakeside Henley",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_alt1.jpg"
@@ -462,7 +462,7 @@
     },
     {
       "id": 56,
-      "name": "ADIDAS Women's Ridgefield Heavyweight Sherpa-Lined Flannel Jacket",
+      "name": "ADIDAS Women's Flannel Jacket",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_alt1.jpg",
@@ -479,7 +479,7 @@
     },
     {
       "id": 57,
-      "name": "LEVI'S Women's 311 Shaping Skinny Jeans",
+      "name": "LEVI'S Women's  Jeans",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_alt1.jpg",
@@ -495,7 +495,7 @@
     },
     {
       "id": 58,
-      "name": "LEVI'S Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "LEVI'S Women's  Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_alt1.jpg",
@@ -512,7 +512,7 @@
     },
     {
       "id": 59,
-      "name": "LEVI'S RESEARCH Women's SuperStrand LT Vest",
+      "name": "LEVI'S RESEARCH Women's Vest",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_alt1.jpg",
@@ -529,7 +529,7 @@
     },
     {
       "id": 60,
-      "name": "LEVI'S IS GOOD Women's Freestyle Crusher-Lite Long Sleeve Graphic Tee",
+      "name": "LEVI'S IS GOOD Women's Freestyle Tee",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_alt1.jpg",
@@ -560,7 +560,7 @@
     },
     {
       "id": 62,
-      "name": "OUTDOOR RESEARCH Women's Ferrosi Convertible Pants - Short",
+      "name": "OUTDOOR RESEARCH Women's Short",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_001_alt1.jpg"
@@ -576,7 +576,7 @@
     },
     {
       "id": 63,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "EMS Women's Micro Fleece Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_alt1.jpg",
@@ -592,7 +592,7 @@
     },
     {
       "id": 64,
-      "name": "EMS Women's Medium Weight Synthetic Base Layer Crewneck Shirt",
+      "name": "EMS Women's Medium Shirt",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_alt1.jpg",
@@ -610,7 +610,7 @@
     },
     {
       "id": 65,
-      "name": "ADIDAS GARNEAU Women's Gloria Short-Sleeve Cycling Jersey",
+      "name": "ADIDAS GARNEAU Women's Jersey",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_alt1.jpg"
@@ -625,7 +625,7 @@
     },
     {
       "id": 66,
-      "name": "LEVI'S Women's Long-Sleeve Graphic Crewneck Fleece",
+      "name": "LEVI'S Women's Fleece",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_004_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_004_alt1.jpg"
@@ -640,7 +640,7 @@
     },
     {
       "id": 67,
-      "name": "ADIDAS Women's Essentials Loose 3-Stripes Cropped Tee",
+      "name": "ADIDAS Women's Cropped Tee",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_alt1.jpg",
@@ -657,7 +657,7 @@
     },
     {
       "id": 68,
-      "name": "EMS Women's Bonus Miles Short-Sleeve Shirt",
+      "name": "EMS Women's Bonus Shirt",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_alt1.jpg"
@@ -672,7 +672,7 @@
     },
     {
       "id": 69,
-      "name": "ADIDAS Women's Kodakchrome 7'' Shorts",
+      "name": "ADIDAS Women's Kodakchrome Shorts",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_alt1.jpg",
@@ -688,7 +688,7 @@
     },
     {
       "id": 70,
-      "name": "ADIDAS Women's Future Icons 3-Stripes Pants",
+      "name": "ADIDAS Women's Future Pants",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_alt1.jpg",
@@ -721,7 +721,7 @@
     },
     {
       "id": 72,
-      "name": "EMS Women's Track Lite Quarter Socks",
+      "name": "EMS Women's Track Lite Socks",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_501_main.jpg"
       ],
@@ -736,7 +736,7 @@
     },
     {
       "id": 73,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "EMS Women's Micro Fleece Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_alt1.jpg",
@@ -753,7 +753,7 @@
     },
     {
       "id": 74,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "EMS Women's Micro Fleece Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt1.jpg",
@@ -771,7 +771,7 @@
     },
     {
       "id": 75,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "name": "EMS Women's Micro Fleece Pullover",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_306_main.jpg"
       ],
@@ -787,7 +787,7 @@
   "Footwear": [
     {
       "id": 1,
-      "name": "EMS Men's Techwick Epic Active UPF Short-Sleeve Tee",
+      "name": "EMS Men's Techwick Epic Tee",
       "image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
