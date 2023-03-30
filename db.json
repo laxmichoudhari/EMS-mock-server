@@ -9,6 +9,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
       ],
       "price": 35,
+      "discount": "25",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_316_main.jpg",
@@ -28,6 +29,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_002_alt3.jpg"
       ],
       "price": 70,
+      "discount": "12",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066736_001_main.jpg",
@@ -45,6 +47,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_409_alt3.jpg"
       ],
       "price": 69,
+      "discount": "50",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079373_212_main.jpg",
@@ -62,6 +65,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_315_alt3.jpg"
       ],
       "price": 60,
+      "discount": "35",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2075405_001_main.jpg",
@@ -79,6 +83,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_808_alt1.jpg"
       ],
       "price": 19,
+      "discount": "15",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071415_314_main.jpg",
@@ -96,6 +101,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_401_alt2.jpg"
       ],
       "price": 84,
+      "discount": "30",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2061102_404_main.jpg",
@@ -113,6 +119,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_alt3.jpg"
       ],
       "price": 55,
+      "discount": "42",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086758_107_main.jpg"
@@ -128,6 +135,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_401_alt2.jpg"
       ],
       "price": 80,
+      "discount": "26",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/1336554_408_main.jpg",
@@ -144,6 +152,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_alt2.jpg"
       ],
       "price": 66,
+      "discount": "16",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_main.jpg"
@@ -160,6 +169,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt6.jpg"
       ],
       "price": 38,
+      "discount": "33",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt5.jpg"
@@ -176,6 +186,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_alt7.jpg"
       ],
       "price": 36,
+      "discount": "42",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083482_402_main.jpg",
@@ -192,6 +203,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt5.jpg"
       ],
       "price": 25,
+      "discount": "19",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt2.jpg",
@@ -209,6 +221,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_alt4.jpg"
       ],
       "price": 30,
+      "discount": "55",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2076069_004_main.jpg",
@@ -227,6 +240,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_alt1.jpg"
       ],
       "price": 35,
+      "discount": "32",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086596_406_main.jpg",
@@ -245,6 +259,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_alt5.jpg"
       ],
       "price": 40,
+      "discount": "17",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086570_460_main.jpg",
@@ -263,6 +278,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_alt7.jpg"
       ],
       "price": 22,
+      "discount": "60",
       "brand":"BUFF",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083350_402_main.jpg",
@@ -281,6 +297,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_001_alt8.jpg"
       ],
       "price": 50,
+      "discount": "13",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082007_101_alt8.jpg",
@@ -298,6 +315,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt5.jpg"
       ],
       "price": 21,
+      "discount": "56",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078069_001_alt3.jpg",
@@ -315,6 +333,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt3.jpg"
       ],
       "price": 65,
+      "discount": "10",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082013_607_alt1.jpg",
@@ -334,6 +353,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_alt8.jpg"
       ],
       "price": 36,
+      "discount": "9",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082011_101_main.jpg",
@@ -351,6 +371,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_108_alt7.jpg"
       ],
       "price": 66,
+      "discount": "13",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081684_004_alt7.jpg",
@@ -368,6 +389,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt6.jpg"
       ],
       "price": 35,
+      "discount": "22",
       "brand":"ADIDAS",
       "color_image": [
        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078042_001_alt6.jpg",
@@ -387,6 +409,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_002_alt3.jpg"
       ],
       "price": 37,
+      "discount": "35",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062313_412_main.jpg",
@@ -405,6 +428,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_001_alt2.jpg"
       ],
       "price": 24,
+      "discount": "61",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055049_402_main.jpg",
@@ -422,6 +446,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_006_alt11.jpg"
       ],
       "price": 44,
+      "discount": "13",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2055052_315_main.jpg",
@@ -438,6 +463,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_alt1.jpg"
       ],
       "price": 18,
+      "discount": "18",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2062028_006_main.jpg"
@@ -454,6 +480,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_alt3.jpg"
       ],
       "price": 77,
+      "discount": "66",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083112_602_main.jpg"
@@ -470,6 +497,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_alt3.jpg"
       ],
       "price": 94,
+      "discount": "46",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083629_315_main.jpg",
@@ -486,6 +514,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_403_alt2.jpg"
       ],
       "price": 48,
+      "discount": "30",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2082197_406_main.jpg",
@@ -502,6 +531,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_006_alt2.jpg"
       ],
       "price": 32,
+      "discount": "19",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2070704_602_main.jpg",
@@ -519,6 +549,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_alt2.jpg"
       ],
       "price": 49,
+      "discount": "19",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084016_501_main.jpg",
@@ -536,6 +567,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_alt2.jpg"
       ],
       "price": 34,
+      "discount": "19",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2079672_101_main.jpg"
@@ -551,6 +583,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_306_alt2.jpg"
       ],
       "price": 74,
+      "discount": "16",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2086564_606_main.jpg",
@@ -566,6 +599,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_001_alt1.jpg"
       ],
       "price": 19,
+      "discount": "16",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2084407_004_main.jpg",
@@ -583,6 +617,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_001_alt3.jpg"
       ],
       "price": 75,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2074965_402_main.jpg",
@@ -600,6 +635,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_803_alt3.jpg"
       ],
       "price": 29,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2071050_003_main.jpg",
@@ -616,6 +652,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_605_alt1.jpg"
       ],
       "price": 69,
+      "discount": "18",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2047351_101_main.jpg",
@@ -631,6 +668,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_004_alt1.jpg"
       ],
       "price": 34,
+      "discount": "16",
       "brand":"LEVIS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2063591_101_main.jpg",
@@ -648,6 +686,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_101_alt3.jpg"
       ],
       "price": 18,
+      "discount": "16",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2077997_001_main.jpg",
@@ -663,6 +702,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_401_alt1.jpg"
       ],
       "price": 41,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2066671_207_main.jpg",
@@ -679,6 +719,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_315_alt2.jpg"
       ],
       "price": 65,
+      "discount": "16",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078259_204_main.jpg",
@@ -696,6 +737,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_001_alt4.jpg"
       ],
       "price": 41,
+      "discount": "16",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081669_006_main.jpg",
@@ -712,6 +754,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt2.jpg"
       ],
       "price": 49,
+      "discount": "16",
       "brand":"ADIDAS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_001_main.jpg",
@@ -726,6 +769,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_501_main.jpg"
       ],
       "price": 10,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2025723_404_main.jpg",
@@ -744,6 +788,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_205_alt3.jpg"
       ],
       "price": 59,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083291_004_main.jpg",
@@ -761,6 +806,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt3.jpg"
       ],
       "price": 54,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_004_main.jpg",
@@ -776,6 +822,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_306_main.jpg"
       ],
       "price": 35,
+      "discount": "16",
       "brand":"EMS",
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_305_main.jpg",
@@ -794,6 +841,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
       ],
       "price": 70,
+      "discount": "16",
       "category": "Mens"
     }
   ]
