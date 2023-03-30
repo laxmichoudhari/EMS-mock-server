@@ -23,8 +23,8 @@
       "id": 12,
       "name": "BUFF Valpar ThermoNet Neckwear",
       "image": [
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt4.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt4.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083351_402_alt5.jpg"
       ],
       "price": 25,
