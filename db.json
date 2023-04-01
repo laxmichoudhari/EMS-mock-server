@@ -816,6 +816,20 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_002_main.jpg"
       ],
       "category": "Womens"
+    }
+  ],
+  "Footwear": [
+    {
+      "id": 1,
+      "name": "EMS Men's Techwick Epic Tee",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
+      ],
+      "price": 70,
+      "discount": "16",
+      "category": "Mens"
     },
     {
       "id": 75,
@@ -831,20 +845,6 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_606_main.jpg"
       ],
       "category": "Womens"
-    }
-  ],
-  "Footwear": [
-    {
-      "id": 1,
-      "name": "EMS Men's Techwick Epic Tee",
-      "image": [
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
-      ],
-      "price": 70,
-      "discount": "16",
-      "category": "Mens"
     }
   ]
 }
