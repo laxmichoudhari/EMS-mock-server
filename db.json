@@ -846,5 +846,55 @@
       ],
       "category": "Womens"
     }
+  ],
+  "Cart":[
+    {
+      "id": 100,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_306_main.jpg"
+       
+      ],
+      "price":35.00,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_305_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_606_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 101,
+      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt2.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt3.jpg"
+      ],
+      "price": 54.99,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_002_main.jpg"
+      ],
+      "category": "Womens"
+    },
+    {
+      "id": 71,
+      "name": "GIRO Women's Riela R II Shoe",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt2.jpg"
+      ],
+      "price": 49.97,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_001_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg"
+      ],
+      "category": "Womens"
+    }
+
   ]
+
 }
