@@ -871,19 +871,24 @@
   ],
   "Cart":[
     {
-      "id": 100,
-      "name": "EMS Women's Micro Fleece 1/4-Zip Pullover",
+      "id": 1,
+      "name": "EMS Men's  Short-Sleeve Tee",
       "image": [
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_306_main.jpg"
-       
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_alt2.jpg"
       ],
-      "price":35.00,
+      "price": 35,
+      "discount": "25",
+      "brand":"EMS",
       "quantity": 1,
       "color_image": [
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_305_main.jpg",
-        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_606_main.jpg"
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_316_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_407_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_004_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2073282_406_main.jpg"
       ],
-      "category": "Womens"
+      "category": "Mens"
     },
     {
       "id": 101,
@@ -918,6 +923,23 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg"
       ],
       "category": "Womens"
+    },
+    {
+      "id": 9,
+      "name": "LEVI'S Mens 405 Denim Shorts",
+      "image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_main.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_alt1.jpg",
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_alt2.jpg"
+      ],
+      "price": 66,
+      "discount": "16",
+      "brand":"LEVIS",
+      "quantity": 1,
+      "color_image": [
+        "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2081994_406_main.jpg"
+      ],
+      "category": "Mens"
     }
 
   ]
