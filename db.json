@@ -878,6 +878,7 @@
        
       ],
       "price":35.00,
+      "quantity": 1,
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_305_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2078832_606_main.jpg"
@@ -894,6 +895,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_402_alt3.jpg"
       ],
       "price": 54.99,
+      "quantity": 1,
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_004_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2083478_001_main.jpg",
@@ -910,6 +912,7 @@
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_alt2.jpg"
       ],
       "price": 49.97,
+      "quantity": 1,
       "color_image": [
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_001_main.jpg",
         "https://res.cloudinary.com/eastern/image/upload/w_1000,q_auto,f_auto/2048109_004_main.jpg"
